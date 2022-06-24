@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.canvas {
+  height: 100vh;
+  background-color: rgba(57, 196, 189, 0.808);
+}
+
+.add-button {
+  background: royalblue;
+  font-size: 14px;
+  padding: 7px 20px;
+  border: 0px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.workspace {
+  display: flex;
+}
